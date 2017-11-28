@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MileMarker</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="destination"> Where are you going?</string>
+    <string name="rate">Rate per mile</string>
+
+    <string name="httpsURLMAP">https://maps.googleapis.com/maps/api/directions/outputFormat?parameters</string>
+
+</resources>
